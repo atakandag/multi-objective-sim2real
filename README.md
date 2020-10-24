@@ -3,7 +3,7 @@
 ## Requirements
 * Copellia Sim (formerly known as V-REP) (https://www.coppeliarobotics.com/)
 * PyRep (https://github.com/stepjam/PyRep)
-* TensorFlow 1
+* TensorFlow 1.14
 
 ## Launching
 You can directly run 'mono.py' and 'hybrid.py' files to test the behaviour. 
