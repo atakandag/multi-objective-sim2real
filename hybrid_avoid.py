@@ -18,7 +18,7 @@ import os
 
 MAX_EPISODES = 1001
 MAX_EP_STEPS = 300
-ON_TRAIN = True #make it false if you want to test
+ON_TRAIN = False #make it false if you want to test
 
 SCENE_FILE = './scenes/scene_reinforcement_learning_env_5_RealObsDynRandom.ttt'
 
@@ -32,6 +32,7 @@ penalty= 10
 closest = 0.10
 furthest = 2.5
 evalnum= 1000
+
 
 dir = './models/avoid/params1/'
 
