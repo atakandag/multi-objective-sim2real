@@ -1,7 +1,7 @@
 # sim2real2020
 
 ## Requirements
-* Copellia Sim (formerly known as V-REP) (https://www.coppeliarobotics.com/)
+* CopelliaSim (formerly known as V-REP) (https://www.coppeliarobotics.com/)
 * PyRep (https://github.com/stepjam/PyRep)
 * TensorFlow 1.14
 
