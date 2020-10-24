@@ -15,3 +15,5 @@ If you want to train another model by using 'mono.py', 'hybrid_reach.py' or 'hyb
 
 ## Notes
 Only the best performing models are shared in this repository. 
+
+DDPG implementation ('rl.py' file) is a modified version of https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/blob/master/contents/9_Deep_Deterministic_Policy_Gradient_DDPG/DDPG_update.py
