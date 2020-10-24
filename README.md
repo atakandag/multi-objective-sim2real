@@ -19,5 +19,5 @@ Only the best performing models are shared in this repository.
 DDPG implementation ('rl.py' file) is a modified version of https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/blob/master/contents/9_Deep_Deterministic_Policy_Gradient_DDPG/DDPG_update.py
 
 If you already have TensorFlow 2, you can simply add:
-```import tensorflow.compat.v1 as tf
-tf.disable_v2_behavior()```
+```import tensorflow.compat.v1 as tf```
+```tf.disable_v2_behavior()```
