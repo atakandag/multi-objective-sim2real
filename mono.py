@@ -32,7 +32,7 @@ penalty1 = 4 #po
 penalty2 = 4  #ps
 closest = 0.10 #important if static scene
 furthest = 2.5 #important if static scene
-evalnum= 1 #number of test episodes
+evalnum= 1000 #number of test episodes
 
 dir = './models/mono/params1/'
 
