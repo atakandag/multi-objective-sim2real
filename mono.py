@@ -1,5 +1,3 @@
-#https://github.com/MorvanZhou/train-robot-arm-from-scratch/blob/master/final/main.py
-
 from rl import DDPG
 import tensorflow as tf
 from os.path import dirname, join, abspath
