@@ -1,0 +1,2 @@
+model_checkpoint_path: "params_700"
+all_model_checkpoint_paths: "params_700"
