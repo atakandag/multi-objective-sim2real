@@ -15,6 +15,8 @@ import matplotlib.pyplot as plt
 import time
 import pickle
 from numpy import savetxt
+import os
+
 MAX_EPISODES = 1001
 MAX_EP_STEPS = 300
 ON_TRAIN = True#make it false if you want to test
@@ -30,9 +32,13 @@ thresh= 0.05
 penalty= 4
 closest = 0.15
 furthest = 2.5
+evalnum = 1000
 
 dir = './models/reach/params1/'
-evalnum = 1000
+
+if not os.path.exists(dir):
+        os.makedirs(dir)
+
 
 class ArmEnv(object):
 

@@ -14,6 +14,7 @@ import matplotlib.pyplot as plt
 import time
 import pickle
 from numpy import savetxt
+import os
 
 MAX_EPISODES = 1201
 MAX_EP_STEPS = 300
@@ -34,6 +35,9 @@ furthest = 2.5 #important if static scene
 evalnum= 1 #number of test episodes
 
 dir = './models/mono/params1/'
+
+if not os.path.exists(dir):
+        os.makedirs(dir)
 
 
 class ArmEnv(object):
