@@ -1,4 +1,4 @@
-# sim2real2020
+# multi-objective sim2real
 
 ## Requirements
 * CopelliaSim (formerly known as V-REP) (https://www.coppeliarobotics.com/)
