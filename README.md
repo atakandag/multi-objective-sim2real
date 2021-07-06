@@ -1,5 +1,11 @@
 # multi-objective sim2real
 
+## Paper
+Monolithic vs. Hybrid Controller for Multi-objective Sim-to-Real Learning (A. Dag, A. Angleraud, W. Yang, N. Strokina, R.S. Pieters, M. Lanz and J.-K. Kämäräinen), In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
+
+## Video
+Supplementary video can be found at https://www.youtube.com/watch?v=8t_0aoA6gOk
+
 ## Requirements
 * CopelliaSim (formerly known as V-REP) (https://www.coppeliarobotics.com/)
 * PyRep (https://github.com/stepjam/PyRep)
