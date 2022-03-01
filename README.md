@@ -3,7 +3,15 @@
 Please consider citing our paper:
 Monolithic vs. Hybrid Controller for Multi-objective Sim-to-Real Learning (A. Dag, A. Angleraud, W. Yang, N. Strokina, R.S. Pieters, M. Lanz and J.-K. Kämäräinen), In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 ```
-@INPROCEEDINGS{9636426,  author={Dag, Atakan and Angleraud, Alexandre and Yang, Wenyan and Strokina, Nataliya and Pieters, Roel S. and Lanz, Minna and Kämäräinen, Joni-Kristian},  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},   title={Monolithic vs. hybrid controller for multi-objective Sim-to-Real learning},   year={2021},  volume={},  number={},  pages={4576-4582},  doi={10.1109/IROS51168.2021.9636426}}
+@INPROCEEDINGS{9636426,  
+author={Dag, Atakan and Angleraud, Alexandre and Yang, Wenyan and Strokina, Nataliya and Pieters, Roel S. and Lanz, Minna and Kämäräinen, Joni-Kristian},  
+booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},   
+title={Monolithic vs. hybrid controller for multi-objective Sim-to-Real learning},   
+year={2021},  
+volume={},  
+number={},  
+pages={4576-4582},  
+doi={10.1109/IROS51168.2021.9636426}}
 ```
 
 ## Video
